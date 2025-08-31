@@ -53,3 +53,4 @@ ls
 ./EfiRom -e nb-13-13700h.efi IgdAssignmentDxe.efi PlatformGopPolicy.efi -f 0x8086 -i 0xffff -o nb-13-13700h-q10.rom
 ls
 ./EfiRom -e IntelGopDriver.efi IgdAssignmentDxe.efi PlatformGOPPolicy.efi -f 0x8086 -i 0x9a78 -o 7505-20250831.rom
+ls
